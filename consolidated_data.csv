@@ -1,0 +1,29 @@
+Timestamp_x,Email Address,Full Name_x,Registered Email ID_x,College Name_x,Discord Username,Timestamp_y,Full Name_y,Registered Email ID_y,College Name_y,Rate your experience with the overall event,Rate the activity-1,Rate the following activity-2,Rate the following activity-3,Rate the following activity-4,Responded
+2024-02-01 08:30:00,johndoe@example.com,John Doe,johndoe@example.com,University A,johndoe#1234,2024-01-31 08:30:00,John Doe,johndoe@example.com,University A,5.0,4.0,5.0,3.0,5.0,Yes
+2024-02-01 09:15:00,ellajohnson@example.com,Ella Johnson,ellajohnson@example.com,University A,ellajohnson#5678,2024-01-31 09:15:00,Ella Johnson,ellajohnson@example.com,University A,4.0,5.0,3.0,4.0,4.0,Yes
+2024-02-01 10:00:00,janesmith@example.com,Jane Smith,janesmith@example.com,College B,janesmith#9012,2024-01-31 10:00:00,Jane Smith,janesmith@example.com,College B,4.0,4.0,4.0,5.0,4.0,Yes
+2024-02-01 11:00:00,randomuser1@example.com,Random User 1,randomuser1@example.com,Random College,randomuser1#3456,,,,,,,,,,No
+2024-02-01 12:00:00,randomuser2@example.com,Random User 2,randomuser2@example.com,Another College,randomuser2#7890,,,,,,,,,,No
+2024-02-01 13:00:00,randomuser3@example.com,Random User 3,randomuser3@example.com,Yet Another College,randomuser3#1234,,,,,,,,,,No
+2024-02-01 14:00:00,evandavis@example.com,Evan Davis,evandavis@example.com,College B,evandavis#5678,2024-01-31 10:45:00,Evan Davis,evandavis@example.com,College B,3.0,3.0,4.0,5.0,3.0,Yes
+2024-02-01 15:00:00,michaeljohnson@example.com,Michael Johnson,michaeljohnson@example.com,Institute C,michaeljohnson#9012,2024-01-31 11:30:00,Michael Johnson,michaeljohnson@example.com,Institute C,5.0,5.0,5.0,5.0,5.0,Yes
+2024-02-01 16:00:00,sophiawilson@example.com,Sophia Wilson,sophiawilson@example.com,Institute C,sophiawilson#3456,2024-01-31 12:15:00,Sophia Wilson,sophiawilson@example.com,Institute C,4.0,3.0,5.0,4.0,4.0,Yes
+2024-02-01 17:00:00,lucassmith@example.com,Lucas Smith,lucassmith@example.com,University D,lucassmith#7890,2024-01-31 13:00:00,Lucas Smith,lucassmith@example.com,University D,5.0,4.0,5.0,4.0,5.0,Yes
+2024-02-01 18:00:00,averywhite@example.com,Avery White,averywhite@example.com,College E,averywhite#1234,2024-01-31 13:45:00,Avery White,averywhite@example.com,College E,3.0,5.0,4.0,3.0,3.0,Yes
+2024-02-01 19:00:00,owenmiller@example.com,Owen Miller,owenmiller@example.com,Institute F,owenmiller#5678,2024-01-31 14:30:00,Owen Miller,owenmiller@example.com,Institute F,4.0,4.0,3.0,5.0,4.0,Yes
+2024-02-01 20:00:00,ariaclark@example.com,Aria Clark,ariaclark@example.com,University G,ariaclark#9012,2024-01-31 15:15:00,Aria Clark,ariaclark@example.com,University G,5.0,5.0,4.0,5.0,5.0,Yes
+2024-02-01 21:00:00,leo@example.com,Leo Brown,leo@example.com,College H,leo#3456,,,,,,,,,,No
+2024-02-01 22:00:00,mia@example.com,Mia Hall,mia@example.com,Institute I,mia#7890,,,,,,,,,,No
+2024-02-01 23:00:00,isaac@example.com,Isaac Taylor,isaac@example.com,University J,isaac#1234,,,,,,,,,,No
+2024-02-02 00:00:00,layla@example.com,Layla Moore,layla@example.com,College K,layla#5678,,,,,,,,,,No
+2024-02-02 01:00:00,carter@example.com,Carter Anderson,carter@example.com,Institute L,carter#9012,,,,,,,,,,No
+2024-02-02 02:00:00,nova@example.com,Nova Walker,nova@example.com,University M,nova#3456,,,,,,,,,,No
+2024-02-02 03:00:00,elijah@example.com,Elijah Wilson,elijah@example.com,College N,elijah#7890,,,,,,,,,,No
+2024-02-02 04:00:00,zara@example.com,Zara Martinez,zara@example.com,Institute O,zara#1234,,,,,,,,,,No
+2024-02-02 05:00:00,henry@example.com,Henry Garcia,henry@example.com,University P,henry#5678,,,,,,,,,,No
+2024-02-02 06:00:00,scarlett@example.com,Scarlett Davis,scarlett@example.com,College Q,scarlett#9012,,,,,,,,,,No
+2024-02-02 07:00:00,gabriel@example.com,Gabriel Harris,gabriel@example.com,Institute R,gabriel#3456,,,,,,,,,,No
+2024-02-02 08:00:00,amelia@example.com,Amelia Jackson,amelia@example.com,University S,amelia#7890,,,,,,,,,,No
+2024-02-02 09:00:00,logan@example.com,Logan Brown,logan@example.com,College T,logan#1234,,,,,,,,,,No
+2024-02-02 10:00:00,aurora@example.com,Aurora Taylor,aurora@example.com,Institute U,aurora#5678,,,,,,,,,,No
+2024-02-02 11:00:00,jackie@example.com,Jackie Lee,jackie@example.com,University V,jackie#9012,,,,,,,,,,No
